@@ -20,6 +20,7 @@ out/
 # Gradle files
 .DS_Store
 gradlew
+gradlew.bat
 .gradle/
 build/
 gradle/
