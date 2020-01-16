@@ -18,6 +18,7 @@ out/
 # release/
 
 # Gradle files
+gradlew
 .gradle/
 build/
 gradle/
